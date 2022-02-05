@@ -1,0 +1,42 @@
+body{
+    background-color: rgb(55, 112, 233);
+    font: normal 15pt arial;
+    
+}
+
+header{
+    color: white;
+    text-align: center;
+} 
+
+section{
+    background-color: rgb(255, 255, 255);
+    border-radius: 30px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow:  10px 10px 10px rgba(0, 0, 0, 0.397);
+}
+
+footer{
+    color: white;
+    text-align: center;
+    font-style: italic;
+}
+
+#legenda{
+    font-size: 15px;
+    
+    
+}
+
+#msg{
+    text-transform: uppercase;
+    text-align: center;
+    font: 32px arial black;
+}
+
+#foto{
+    padding: 2vh;
+    text-align: center;
+}
