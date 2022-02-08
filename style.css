@@ -1,6 +1,7 @@
 body{
     background-color: rgb(55, 112, 233);
-    font: normal 15pt arial;
+    font-family: American Typewriter, serif	;
+    font-size: 15pt;
     
 }
 
@@ -26,6 +27,9 @@ footer{
 
 #legenda{
     font-size: 15px;
+    text-transform: uppercase;
+    font-family: Georgia, serif	;
+
     
     
 }
@@ -39,4 +43,9 @@ footer{
 #foto{
     padding: 2vh;
     text-align: center;
+}
+
+#periodo{
+    font-size: 20pt;
+    text-align: center;  
 }
